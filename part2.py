@@ -27,10 +27,3 @@ for i in range(0,n):
     arr.append(elem)
 avg=sum(arr)/n    
 print("Average of the given numbers: ", round(avg,2))
-
-
-# In[ ]:
-
-
-
-
